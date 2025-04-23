@@ -12,6 +12,7 @@ public:
         //iterating through the numbers
         for (int i = 1; i <= n; ++i) {
             
+            //calculating the sum of the digits
             int key = 0, i0 = i;
             while (i0) {
                 key += i0 % 10;
