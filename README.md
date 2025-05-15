@@ -1,2 +1,14 @@
 # LeetCode-Practice
 Collection of LeetCode questions to ace the coding interview!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
