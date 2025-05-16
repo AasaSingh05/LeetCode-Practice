@@ -1,3 +1,6 @@
+//TIME COMPLEXITY: O(n)
+//SPACE COMPLEXITY: O(1)
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
