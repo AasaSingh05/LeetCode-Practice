@@ -1,3 +1,6 @@
+//TIME COMPLEXITY: O(NlogN)
+//SPACE COMPLEXITY: O(1)
+
 class Solution {
 public:
     int hIndex(vector<int>& citations) {
