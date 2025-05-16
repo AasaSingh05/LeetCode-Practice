@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0274-h-index](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
