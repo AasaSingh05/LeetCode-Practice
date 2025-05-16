@@ -1,3 +1,6 @@
+//TIME COMPLEXITY: O(N)
+//SPACE COMPLEXITY: O(N)
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
