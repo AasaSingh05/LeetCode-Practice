@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0274-h-index) |
+| [3321-type-of-triangle](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,8 +42,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0274-h-index](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0274-h-index) |
+| [3321-type-of-triangle](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0274-h-index) |
+## Math
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
