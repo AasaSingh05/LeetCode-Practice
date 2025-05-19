@@ -12,9 +12,10 @@ public:
         map['D']= 500;
         map['M'] = 1000;
         
+        //base case of a single char string
+        if(s.length() == 1) return map[s[0]];
+
         //declaration of the other variables
-        bool add = false;
-        bool sub = false;
         int val = 0;
         int chval = 0;
         int nextchval = 0;
@@ -27,13 +28,9 @@ public:
             //checking if the current val should be added or subbed from the next val
             if(chval >= nextchval){
                 val += chval;
-                add = true;
-                sub = false;
             }
             else{
                 val -= chval;
-                add = false; 
-                sub = true;
             }
         }
         
