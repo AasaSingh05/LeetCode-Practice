@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 ## Tree
 |  |
 | ------- |
@@ -50,5 +51,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [3321-type-of-triangle](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/3321-type-of-triangle) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
