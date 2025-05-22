@@ -1,3 +1,5 @@
+//TIME COMPLEXITY:O(N)
+//SPACE COMPLEXITY:O(N)
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
