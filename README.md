@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0274-h-index) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -60,4 +62,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
