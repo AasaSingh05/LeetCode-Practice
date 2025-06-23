@@ -4,7 +4,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        //declaration (nums val , index)
+        //declaration (complement , index)
         unordered_map<int, int> hashMap;
         
         //iterating over the nums vector
