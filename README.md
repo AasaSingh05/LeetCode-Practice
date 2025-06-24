@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0908-middle-of-the-linked-list](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
