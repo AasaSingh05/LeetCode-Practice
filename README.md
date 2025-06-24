@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0274-h-index) |
 | [3321-type-of-triangle](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/3321-type-of-triangle) |
 ## Hash Table
