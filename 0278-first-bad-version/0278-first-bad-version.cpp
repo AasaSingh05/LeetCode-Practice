@@ -1,4 +1,4 @@
-//TIME COMPLEXITY: O(N)
+//TIME COMPLEXITY: O(log N)
 //SPACE COMPLEXITY: O(1)
 
 /*  The API isBadVersion is defined for you.
