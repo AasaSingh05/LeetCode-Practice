@@ -1,46 +1,46 @@
 //TIME COMPLEXITY: O()
 //SPACE COMPLEXITY: O()
+#include <stack>
+#include <unordered_map>
+
 class Solution {
 public:
-    // helper function to check if the final array is empty or not  
-    bool isEmpty(vector<char> arr){
-        if(arr.size() == 0) return true;
-        else{
-            return false;
-        }
-    }
-
-    //main function
     bool isValid(string s) {
-        //base cases
-        if((s.length() == 1) || (s[0] == ')') || (s[0] == ']') || (s[0] == '}')) return false;
+        // Map of closing to opening brackets
+        unordered_map<char, char> bracketMap = {
+            {')', '('},
+            {']', '['},
+            {'}', '{'}
+        };
 
-        //declaration and initialization
-        vector<char> arr;
+        //declaration and initialization 
+        stack<char> stk;
 
-        //iterating over the string characters
-        for(char ch : s){
-            
-            //if it is an open bracket it gets pushed immediately
-            if(ch == '{' || ch == '(' || ch == '['){
-                arr.push_back(ch);
-            }
-            else{       
-                //now to check for each closing bracket individually
-                if(
-                    (arr.size() == 0 && ch == ')' && (arr.back() != '(')) ||
-                    (arr.size() == 0 && ch == '}' && (arr.back() != '{')) ||
-                    (arr.size() == 0 && ch == ']' && (arr.back() != '['))
-                ){
-                    //If it doesnt match instantly return false
+        //looping over each character in the string
+        for (char ch : s) {
+            // Checks if the key exists in the hashmap
+            if (bracketMap.count(ch)) {
+
+                // Check if stack is empty or top of stack doesn't match
+                if (stk.empty() || stk.top() != bracketMap[ch]) {
+                    
+                    //it isnt valid, hence return
                     return false;
                 }
-                //iff it matches then it gets removed
-                arr.pop_back();
+                
+                // matched successfully
+                stk.pop();
+            } 
+            
+            //otherwise it has to be an opening bracket
+            else {
+
+                //push into the stack
+                stk.push(ch);
             }
         }
 
-        //we check for elts and return the final answer
-        return isEmpty(arr);
+        // If the stack is empty, all brackets matched
+        return stk.empty();
     }
 };
