@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
