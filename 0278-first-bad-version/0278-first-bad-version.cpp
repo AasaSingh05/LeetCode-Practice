@@ -1,5 +1,5 @@
-//TIME COMPLEXITY: O()
-//SPACE COMPLEXITY: O()
+//TIME COMPLEXITY: O(N)
+//SPACE COMPLEXITY: O(1)
 
 /*  The API isBadVersion is defined for you.
     bool isBadVersion(int version);*/
