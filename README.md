@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
