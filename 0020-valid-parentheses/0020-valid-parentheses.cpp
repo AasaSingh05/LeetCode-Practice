@@ -1,5 +1,5 @@
-//TIME COMPLEXITY: O()
-//SPACE COMPLEXITY: O()
+//TIME COMPLEXITY: O(N)
+//SPACE COMPLEXITY: O(N)
 #include <stack>
 #include <unordered_map>
 
