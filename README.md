@@ -28,11 +28,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0733-flood-fill) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
