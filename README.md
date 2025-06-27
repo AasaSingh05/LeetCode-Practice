@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -42,12 +44,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AasaSingh05/LeetCode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
